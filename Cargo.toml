@@ -22,4 +22,4 @@ slog-stdlog = "4.1.1"
 chrono = "0.4.22"
 tokio = { version = "1", features = [ "sync", "rt-multi-thread", "macros" ] }
 # env_logger = "0.9"
-tikv-client = { git = "https://github.com/FISCO-BCOS/tikv-client-rust.git", rev = "e835d9a72f58064de9ebf27a219425e5556fe6e2" }
+tikv-client = { git = "https://github.com/FISCO-BCOS/tikv-client-rust.git", rev = "8b628485fee1871cdb15e4fc1cd8ebdbacf90541" }
