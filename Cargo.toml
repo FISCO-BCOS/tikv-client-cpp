@@ -28,7 +28,7 @@ openssl-sys = "=0.9.75"
 tokio = { version = "=1.28.2", features = ["full"] }
 env_logger = "0.9"
 # tikv-client = { path = "../tikv-client-rust" }
-tikv-client = { git = "https://github.com/FISCO-BCOS/tikv-client-rust.git", rev = "8b628485fee1871cdb15e4fc1cd8ebdbacf90541" }
+tikv-client = { git = "https://github.com/FISCO-BCOS/tikv-client-rust.git", rev = "a9b002759d1358be5a48210adb9328568fe8bb20" }
 
 [build-dependencies]
 cxx-build = "1.0.18"
